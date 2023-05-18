@@ -1,0 +1,2 @@
+# bootcampcito
+Practica pokeapi
